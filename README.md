@@ -101,7 +101,7 @@ Saiba mais em [docs/fintech-microservices/README.md](docs/fintech-microservices/
 
 - GitHub: [@DouglasGMenezes](https://github.com/DouglasGMenezes)
 - LinkedIn: [linkedin.douglas](https://www.linkedin.com/in/douglas-goulart-de-menezes-445422145/)
-- Email: goulartdouglas4@gmail.com
+- Email: goulartdouglas4@gmail.com 
 
 ## 10. Visitor Counter
 
