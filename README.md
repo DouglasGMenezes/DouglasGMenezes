@@ -1,4 +1,4 @@
-# Douglas GM
+# Hi there! I'm Douglas
 
 <div align="center">
   <img src="assets/banners/profile-banner.svg" alt="Banner do perfil GitHub de Douglas GM" width="100%" />
@@ -6,7 +6,7 @@
 
 <div align="center">
 
-Backend Java Engineer focado em arquitetura, sistemas distribuídos e qualidade de software.
+Backend Java Developer focado em arquitetura, sistemas distribuídos e qualidade de software.
 
 </div>
 
@@ -15,6 +15,23 @@ Backend Java Engineer focado em arquitetura, sistemas distribuídos e qualidade 
   <img src="https://img.shields.io/badge/Java-Engineering-0F172A?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring%20Boot-Backend-0F172A?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
 </p>
+
+## Tech Stack
+
+<div align="center">
+<img src="assets/icons/aws.svg" width="5%" higth="5%" />
+<img src="assets/icons/java.svg" width="5%" higth="5%"/>
+<img src="assets/icons/spring.svg" width="5%" higth="5%"/>
+<img src="assets/icons/bash.svg" width="5%" higth="5%"/>
+<img src="assets/icons/rabbitmq.svg" width="5%" higth="5%"/>
+<img src="assets/icons/postman.svg" width="5%" higth="5%"/>
+<img src="assets/icons/postgresql.svg" width="5%" higth="5%"/>
+<img src="assets/icons/docker.svg" width="5%" higth="5%"/>
+<img src="assets/icons/intellij.svg" width="5%" higth="5%"/>
+<img src="assets/icons/linux.svg" width="5%" higth="5%"/>
+<img src="assets/icons/git.svg" width="5%" higth="5%"/>
+<img src="assets/icons/github-actions.svg" width="5%" higth="5%"/>
+</div>
 
 ## 1. Hero Section
 
@@ -25,7 +42,7 @@ Este perfil foi desenhado para comunicar uma identidade técnica clara: organiza
 ## 2. About Me
 
 - Trabalho com Java e Spring Boot no desenvolvimento de APIs e serviços backend.
-- Tenho interesse real em arquitetura limpa, design patterns e evolução de sistemas distribuídos.
+- Tenho interesse em arquitetura limpa, DDD, design patterns e evolução de sistemas distribuídos.
 - Gosto de entender o comportamento do sistema, não apenas entregar código funcional.
 - Meu foco é crescer com rigor técnico, visão de produto e consciência de escala.
 
@@ -52,95 +69,46 @@ Projeto destaque do perfil, pensado como um ecossistema de fintech baseado em mi
 - PostgreSQL com persistência organizada por contexto.
 - Observabilidade e readiness para ambientes cloud.
 
-Saiba mais em [docs/fintech-microservices/README.md](docs/fintech-microservices/README.md).
+Saiba mais em [docs/fintech-microservices/README.md](docs/fintech-microservices/README.md)
+- https://github.com/DouglasGMenezes/fintech-microservices
 
-## 5. Tech Stack
-
-### Core
-
-- Java
-- Spring Boot
-- REST APIs
-- Microservices
-
-### Infrastructure
-
-- RabbitMQ
-- Docker
-- PostgreSQL
-- Cloud
-
-### Delivery
-
-- Git
-- GitHub Actions
-- Observability
-- Automation
-
-### Engineering
-
-- Clean Architecture
-- Design Patterns
-- Scalability
-- Distributed Systems
-
-## 6. Learning Roadmap
-
-- Aprofundar padrões arquiteturais para serviços distribuídos.
-- Melhorar modelagem de domínio e fronteiras de contexto.
-- Estudar estratégias de mensageria, retry, idempotência e compensação.
-- Evoluir observabilidade com métricas, logs estruturados e tracing.
-- Entender práticas de deploy e operação em cloud com mais consistência.
-
-## 7. GitHub Stats
+## 5. GitHub Stats
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=douglasgm&theme=github_dark" alt="GitHub stats" />
 </p>
 
-## 8. Top Languages
+## 6. Contribution Snake
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=douglasgm&theme=github_dark" alt="Top languages" />
+  <img src="https://raw.githubusercontent.com/DouglasGMenezes/DouglasGMenezes/output/github-contribution-grid-snake.svg" alt="Snake" width="90%" />
 </p>
 
-## 9. Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/cards/contribution-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="assets/cards/contribution-snake.svg" />
-    <img src="assets/cards/contribution-snake.svg" alt="Contribution snake" width="100%" />
-  </picture>
-</p>
-
-## 10. GitHub Streak
+## 7. GitHub Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=douglasgm&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
 </p>
 
-## 11. Goals
+## 8. Goals
 
 - Me tornar um backend engineer sólido em Java.
 - Construir sistemas com arquitetura clara e comunicação confiável.
 - Ser consistente em qualidade, testabilidade e legibilidade.
 - Desenvolver repertório técnico suficiente para atuar com autonomia crescente em times maduros.
 
-## 12. Contact
+## 9. Contact
 
-- GitHub: [@douglasgm](https://github.com/douglasgm)
-- LinkedIn: adicione aqui seu perfil profissional
-- Email: adicione aqui seu email profissional
+- GitHub: [@DouglasGMenezes](https://github.com/DouglasGMenezes)
+- LinkedIn: [linkedin.douglas](https://www.linkedin.com/in/douglas-goulart-de-menezes-445422145/)
+- Email: goulartdouglas4@gmail.com
 
-## 13. Visitor Counter
+## 10. Visitor Counter
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=douglasgm&style=for-the-badge&color=111827" alt="Visitor counter" />
 </p>
 
-## 14. Footer
-
 <p align="center">
-  Construindo software backend com intenção, clareza e disciplina.
+  *** Obrigado por visitar meu perfil! ***
 </p>
