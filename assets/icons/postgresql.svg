@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title">
+  <title id="title">PostgreSQL icon</title>
+  <rect x="8" y="8" width="48" height="48" rx="14" fill="#101B2E" stroke="#7DD3FC" stroke-opacity="0.18" />
+  <path d="M20 42V23C24 20 29 18 32 18C38 18 44 22 44 29C44 35 39 39 33 39C30 39 28 38 26 37V42" stroke="#7DD3FC" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M26 28H34" stroke="#7DD3FC" stroke-width="2" stroke-linecap="round" />
+</svg>

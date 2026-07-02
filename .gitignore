@@ -1,0 +1,5 @@
+.DS_Store
+dist/
+.github-output/
+preview/.cache/
+*.log

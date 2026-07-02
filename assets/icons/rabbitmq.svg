@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title">
+  <title id="title">RabbitMQ icon</title>
+  <rect x="8" y="8" width="48" height="48" rx="14" fill="#101B2E" stroke="#7DD3FC" stroke-opacity="0.18" />
+  <path d="M22 38H42" stroke="#7DD3FC" stroke-width="2" stroke-linecap="round" />
+  <path d="M24 28H40" stroke="#7DD3FC" stroke-width="2" stroke-linecap="round" />
+  <path d="M28 22H36" stroke="#7DD3FC" stroke-width="2" stroke-linecap="round" />
+  <path d="M28 22V38" stroke="#7DD3FC" stroke-width="2" stroke-linecap="round" />
+  <path d="M36 22V38" stroke="#7DD3FC" stroke-width="2" stroke-linecap="round" />
+</svg>

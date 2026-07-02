@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title">
+  <title id="title">Docker icon</title>
+  <rect x="8" y="8" width="48" height="48" rx="14" fill="#101B2E" stroke="#7DD3FC" stroke-opacity="0.18" />
+  <path d="M20 31H25V26H30V31H35V26H40V31H44C45 39 39 43 31 43C25 43 20 39 20 31Z" stroke="#7DD3FC" stroke-width="2" stroke-linejoin="round" />
+  <path d="M25 31H31V37H25V31Z" fill="#7DD3FC" fill-opacity="0.14" />
+</svg>

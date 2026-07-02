@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title">
+  <title id="title">Java icon</title>
+  <rect x="8" y="8" width="48" height="48" rx="14" fill="#101B2E" stroke="#7DD3FC" stroke-opacity="0.18" />
+  <path d="M22 43C28 41 30 37 30 34C30 30 26 28 26 24C26 21 28 19 31 18" stroke="#7DD3FC" stroke-width="2" stroke-linecap="round" />
+  <path d="M34 18C37 20 38 23 38 26C38 30 34 32 34 35C34 39 37 41 42 43" stroke="#7DD3FC" stroke-width="2" stroke-linecap="round" />
+  <path d="M23 47H41" stroke="#7DD3FC" stroke-width="2" stroke-linecap="round" />
+</svg>

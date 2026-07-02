@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="960" height="240" viewBox="0 0 960 240" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Fintech Microservices Logo</title>
+  <desc id="desc">Minimal wordmark for the Fintech Microservices project.</desc>
+  <defs>
+    <linearGradient id="logoGradient" x1="80" y1="40" x2="880" y2="200" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7DD3FC" />
+      <stop offset="1" stop-color="#38BDF8" />
+    </linearGradient>
+  </defs>
+  <rect width="960" height="240" rx="28" fill="#0B1020" />
+  <rect x="0.5" y="0.5" width="959" height="239" rx="27.5" stroke="#7DD3FC" stroke-opacity="0.12" />
+  <g transform="translate(56 48)">
+    <circle cx="48" cy="52" r="44" fill="url(#logoGradient)" fill-opacity="0.12" stroke="url(#logoGradient)" stroke-opacity="0.28" />
+    <path d="M24 52H72" stroke="url(#logoGradient)" stroke-width="2.5" stroke-linecap="round" />
+    <path d="M48 28V76" stroke="url(#logoGradient)" stroke-width="2.5" stroke-linecap="round" />
+    <path d="M34 38L62 66" stroke="url(#logoGradient)" stroke-width="2.5" stroke-linecap="round" />
+    <path d="M62 38L34 66" stroke="url(#logoGradient)" stroke-width="2.5" stroke-linecap="round" />
+  </g>
+  <text x="164" y="104" fill="#E5EEF8" font-family="Inter, Segoe UI, sans-serif" font-size="44" font-weight="700">Fintech Microservices</text>
+  <text x="166" y="144" fill="#93A4BA" font-family="SFMono-Regular, Consolas, monospace" font-size="16">architecture-first backend system</text>
+</svg>

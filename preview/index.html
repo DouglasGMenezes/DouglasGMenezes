@@ -1,0 +1,163 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>GitHub Profile Premium - Preview</title>
+    <link rel="stylesheet" href="../design-system/tokens.css" />
+    <style>
+      body {
+        margin: 0;
+        min-height: 100vh;
+        background:
+          radial-gradient(circle at top left, rgba(56, 189, 248, 0.12), transparent 32%),
+          radial-gradient(circle at bottom right, rgba(125, 211, 252, 0.08), transparent 26%),
+          var(--bg);
+        color: var(--text);
+        font-family: var(--sans);
+      }
+
+      .shell {
+        max-width: 1280px;
+        margin: 0 auto;
+        padding: 32px 20px 56px;
+      }
+
+      .hero {
+        display: grid;
+        gap: 24px;
+      }
+
+      .panel {
+        padding: 20px;
+        border-radius: var(--radius-lg);
+        background: linear-gradient(180deg, rgba(255, 255, 255, 0.02), transparent 24%), var(--surface);
+        border: 1px solid var(--border);
+        box-shadow: var(--shadow-soft);
+      }
+
+      .grid {
+        display: grid;
+        grid-template-columns: 1.2fr 0.8fr;
+        gap: 20px;
+        align-items: start;
+      }
+
+      .stack {
+        display: grid;
+        gap: 20px;
+      }
+
+      .label {
+        margin: 0 0 8px;
+        color: var(--muted);
+        text-transform: uppercase;
+        letter-spacing: 0.12em;
+        font-family: var(--mono);
+        font-size: 12px;
+      }
+
+      h1,
+      h2,
+      p {
+        margin-top: 0;
+      }
+
+      h1 {
+        font-size: clamp(2rem, 4vw, 4.2rem);
+        line-height: 0.95;
+        margin-bottom: 12px;
+      }
+
+      .muted {
+        color: var(--muted);
+        max-width: 66ch;
+      }
+
+      .image {
+        width: 100%;
+        display: block;
+        border-radius: 20px;
+      }
+
+      .chips {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+      }
+
+      .chip {
+        padding: 8px 12px;
+        border: 1px solid var(--border);
+        border-radius: 999px;
+        color: var(--text);
+        background: rgba(255, 255, 255, 0.02);
+        font-size: 13px;
+      }
+
+      .cards {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+        gap: 20px;
+      }
+    </style>
+  </head>
+  <body>
+    <main class="shell">
+      <section class="hero">
+        <div class="panel">
+          <p class="label">Preview</p>
+          <h1>GitHub Profile Premium</h1>
+          <p class="muted">
+            Visualização local da identidade do perfil, com banner SVG, diagrama de arquitetura e componentes reutilizáveis do design system.
+          </p>
+        </div>
+
+        <div class="grid">
+          <div class="panel stack">
+            <div>
+              <p class="label">Banner</p>
+              <img class="image" src="../assets/banners/profile-banner.svg" alt="Banner do perfil" />
+            </div>
+            <div>
+              <p class="label">Arquitetura</p>
+              <img class="image" src="../assets/svg/architecture-diagram.svg" alt="Diagrama de arquitetura" />
+            </div>
+          </div>
+
+          <div class="panel stack">
+            <div>
+              <p class="label">Direção Visual</p>
+              <h2>Minimal, technical, premium</h2>
+              <p class="muted">
+                O foco é transmitir engenharia real: poucas cores, bom respiro, linhas finas e composição limpa.
+              </p>
+            </div>
+            <div class="chips">
+              <span class="chip">GitHub Dark</span>
+              <span class="chip">Linear</span>
+              <span class="chip">Vercel</span>
+              <span class="chip">Raycast</span>
+              <span class="chip">Notion</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="cards">
+          <div class="panel">
+            <p class="label">Design Tokens</p>
+            <p class="muted">
+              Tokens centralizados em <code>design-system/tokens.css</code> para manter consistência entre banner, preview e documentação.
+            </p>
+          </div>
+          <div class="panel">
+            <p class="label">Arquivos Chave</p>
+            <p class="muted">
+              <code>README.md</code>, <code>assets/</code>, <code>docs/</code>, <code>.github/workflows/</code> e <code>preview/index.html</code>.
+            </p>
+          </div>
+        </div>
+      </section>
+    </main>
+  </body>
+</html>

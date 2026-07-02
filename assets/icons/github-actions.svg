@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title">
+  <title id="title">GitHub Actions icon</title>
+  <rect x="8" y="8" width="48" height="48" rx="14" fill="#101B2E" stroke="#7DD3FC" stroke-opacity="0.18" />
+  <path d="M22 38L31 20L42 34L33 44L22 38Z" stroke="#7DD3FC" stroke-width="2" stroke-linejoin="round" />
+  <path d="M33 44L42 34" stroke="#7DD3FC" stroke-width="2" stroke-linecap="round" />
+</svg>

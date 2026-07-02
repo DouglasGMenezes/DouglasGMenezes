@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1400" height="820" viewBox="0 0 1400 820" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Fintech Microservices Architecture Diagram</title>
+  <desc id="desc">Blueprint-style SVG architecture diagram for the Fintech Microservices project.</desc>
+
+  <defs>
+    <linearGradient id="diagramBg" x1="0" y1="0" x2="1400" y2="820" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#08111D" />
+      <stop offset="1" stop-color="#101B2E" />
+    </linearGradient>
+    <linearGradient id="line" x1="200" y1="200" x2="1200" y2="620" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7DD3FC" stop-opacity="0.8" />
+      <stop offset="1" stop-color="#38BDF8" stop-opacity="0.55" />
+    </linearGradient>
+    <pattern id="diagramGrid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M 36 0 H 0 V 36" stroke="#7DD3FC" stroke-opacity="0.08" stroke-width="1" />
+    </pattern>
+    <filter id="softGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="5" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <g id="background">
+    <rect width="1400" height="820" rx="28" fill="url(#diagramBg)" />
+    <rect x="0.5" y="0.5" width="1399" height="819" rx="27.5" stroke="#7DD3FC" stroke-opacity="0.12" />
+    <circle cx="1220" cy="132" r="120" fill="#7DD3FC" fill-opacity="0.05" />
+    <circle cx="198" cy="640" r="150" fill="#38BDF8" fill-opacity="0.04" />
+  </g>
+
+  <g id="grid">
+    <rect width="1400" height="820" fill="url(#diagramGrid)" />
+    <path d="M0 410H1400" stroke="#7DD3FC" stroke-opacity="0.08" />
+    <path d="M700 0V820" stroke="#7DD3FC" stroke-opacity="0.06" />
+  </g>
+
+  <g id="connections" stroke-linecap="round" stroke-linejoin="round" filter="url(#softGlow)">
+    <path d="M250 180H390" stroke="url(#line)" stroke-width="2" />
+    <path d="M470 250H580" stroke="url(#line)" stroke-width="2" />
+    <path d="M470 250V160H620" stroke="url(#line)" stroke-width="2" />
+    <path d="M470 250V340H620" stroke="url(#line)" stroke-width="2" />
+    <path d="M470 250V500H620" stroke="url(#line)" stroke-width="2" />
+    <path d="M770 160H900" stroke="url(#line)" stroke-width="2" />
+    <path d="M770 250H900" stroke="url(#line)" stroke-width="2" />
+    <path d="M770 340H900" stroke="url(#line)" stroke-width="2" />
+    <path d="M770 500H900" stroke="url(#line)" stroke-width="2" />
+    <path d="M1020 160H1120" stroke="url(#line)" stroke-width="2" />
+    <path d="M1020 250H1120" stroke="url(#line)" stroke-width="2" />
+    <path d="M1020 340H1120" stroke="url(#line)" stroke-width="2" />
+    <path d="M1020 500H1120" stroke="url(#line)" stroke-width="2" />
+    <path d="M1120 500C1180 500 1240 560 1300 620" stroke="url(#line)" stroke-width="2" stroke-dasharray="5 10" />
+  </g>
+
+  <g id="nodes">
+    <g transform="translate(70 120)">
+      <rect width="180" height="120" rx="20" fill="#101B2E" stroke="#7DD3FC" stroke-opacity="0.18" />
+      <text x="24" y="50" fill="#E5EEF8" font-family="Inter, Segoe UI, sans-serif" font-size="18" font-weight="600">API Gateway</text>
+      <text x="24" y="74" fill="#93A4BA" font-family="SFMono-Regular, Consolas, monospace" font-size="12">entrada</text>
+    </g>
+
+    <g transform="translate(390 200)">
+      <rect width="180" height="100" rx="20" fill="#101B2E" stroke="#7DD3FC" stroke-opacity="0.18" />
+      <text x="24" y="42" fill="#E5EEF8" font-family="Inter, Segoe UI, sans-serif" font-size="18" font-weight="600">Auth Service</text>
+      <text x="24" y="64" fill="#93A4BA" font-family="SFMono-Regular, Consolas, monospace" font-size="12">JWT</text>
+    </g>
+
+    <g transform="translate(620 120)">
+      <rect width="150" height="80" rx="18" fill="#101B2E" stroke="#7DD3FC" stroke-opacity="0.18" />
+      <text x="18" y="34" fill="#E5EEF8" font-family="Inter, Segoe UI, sans-serif" font-size="15" font-weight="600">Customer</text>
+      <text x="18" y="54" fill="#93A4BA" font-family="SFMono-Regular, Consolas, monospace" font-size="12">profile</text>
+    </g>
+
+    <g transform="translate(620 220)">
+      <rect width="150" height="80" rx="18" fill="#101B2E" stroke="#7DD3FC" stroke-opacity="0.18" />
+      <text x="18" y="34" fill="#E5EEF8" font-family="Inter, Segoe UI, sans-serif" font-size="15" font-weight="600">Account</text>
+      <text x="18" y="54" fill="#93A4BA" font-family="SFMono-Regular, Consolas, monospace" font-size="12">saldo</text>
+    </g>
+
+    <g transform="translate(620 320)">
+      <rect width="150" height="80" rx="18" fill="#101B2E" stroke="#7DD3FC" stroke-opacity="0.18" />
+      <text x="18" y="34" fill="#E5EEF8" font-family="Inter, Segoe UI, sans-serif" font-size="15" font-weight="600">Transaction</text>
+      <text x="18" y="54" fill="#93A4BA" font-family="SFMono-Regular, Consolas, monospace" font-size="12">eventos</text>
+    </g>
+
+    <g transform="translate(620 470)">
+      <rect width="150" height="80" rx="18" fill="#101B2E" stroke="#7DD3FC" stroke-opacity="0.18" />
+      <text x="18" y="34" fill="#E5EEF8" font-family="Inter, Segoe UI, sans-serif" font-size="15" font-weight="600">Notification</text>
+      <text x="18" y="54" fill="#93A4BA" font-family="SFMono-Regular, Consolas, monospace" font-size="12">RabbitMQ</text>
+    </g>
+
+    <g transform="translate(900 120)">
+      <rect width="120" height="80" rx="18" fill="#101B2E" stroke="#7DD3FC" stroke-opacity="0.18" />
+      <text x="18" y="34" fill="#E5EEF8" font-family="Inter, Segoe UI, sans-serif" font-size="15" font-weight="600">RabbitMQ</text>
+      <text x="18" y="54" fill="#93A4BA" font-family="SFMono-Regular, Consolas, monospace" font-size="12">bus</text>
+    </g>
+
+    <g transform="translate(900 220)">
+      <rect width="120" height="80" rx="18" fill="#101B2E" stroke="#7DD3FC" stroke-opacity="0.18" />
+      <text x="18" y="34" fill="#E5EEF8" font-family="Inter, Segoe UI, sans-serif" font-size="15" font-weight="600">Events</text>
+      <text x="18" y="54" fill="#93A4BA" font-family="SFMono-Regular, Consolas, monospace" font-size="12">domain</text>
+    </g>
+
+    <g transform="translate(900 320)">
+      <rect width="120" height="80" rx="18" fill="#101B2E" stroke="#7DD3FC" stroke-opacity="0.18" />
+      <text x="18" y="34" fill="#E5EEF8" font-family="Inter, Segoe UI, sans-serif" font-size="15" font-weight="600">Reporting</text>
+      <text x="18" y="54" fill="#93A4BA" font-family="SFMono-Regular, Consolas, monospace" font-size="12">read model</text>
+    </g>
+
+    <g transform="translate(900 470)">
+      <rect width="120" height="80" rx="18" fill="#101B2E" stroke="#7DD3FC" stroke-opacity="0.18" />
+      <text x="18" y="34" fill="#E5EEF8" font-family="Inter, Segoe UI, sans-serif" font-size="15" font-weight="600">Observ.</text>
+      <text x="18" y="54" fill="#93A4BA" font-family="SFMono-Regular, Consolas, monospace" font-size="12">logs</text>
+    </g>
+
+    <g transform="translate(1120 410)">
+      <rect width="190" height="120" rx="20" fill="#101B2E" stroke="#7DD3FC" stroke-opacity="0.18" />
+      <text x="24" y="52" fill="#E5EEF8" font-family="Inter, Segoe UI, sans-serif" font-size="18" font-weight="600">PostgreSQL</text>
+      <text x="24" y="76" fill="#93A4BA" font-family="SFMono-Regular, Consolas, monospace" font-size="12">storage</text>
+    </g>
+  </g>
+
+  <g id="title">
+    <text x="70" y="78" fill="#E5EEF8" font-family="Inter, Segoe UI, sans-serif" font-size="38" font-weight="700" letter-spacing="-0.03em">Fintech Microservices</text>
+    <text x="70" y="106" fill="#93A4BA" font-family="SFMono-Regular, Consolas, monospace" font-size="14">blueprint de arquitetura backend</text>
+  </g>
+
+  <g id="decorations">
+    <circle cx="1354" cy="74" r="4" fill="#7DD3FC" fill-opacity="0.6" />
+    <circle cx="1334" cy="74" r="4" fill="#7DD3FC" fill-opacity="0.4" />
+    <circle cx="1314" cy="74" r="4" fill="#7DD3FC" fill-opacity="0.25" />
+    <path d="M1180 80H1320" stroke="#7DD3FC" stroke-opacity="0.18" />
+  </g>
+</svg>
