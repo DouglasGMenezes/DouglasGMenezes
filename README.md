@@ -1,5 +1,6 @@
 <div align="center">
   <img src="assets/banners/profile-banner02.svg" width="100%" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Building+the+world+in+lines+of+code.;Do+it+yourself.+Code%2C+create%2C+solve;Transforming+ideas+into+solutions.;Helping+to+build+the+future." alt="Typing SVG" /></a>
 </div>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=douglasgm&style=for-the-badge&color=0F172A" alt="Visitor counter" />
@@ -10,17 +11,7 @@
 ##  Tech Stack
 
 <div align="center">
-<img src="assets/icons/java.svg" width="5%" higth="5%"/>
-<img src="assets/icons/spring.svg" width="5%" higth="5%"/>
-<img src="assets/icons/postgresql.svg" width="5%" higth="5%"/>
-<img src="assets/icons/aws.svg" width="5%" higth="5%" />
-<img src="assets/icons/docker.svg" width="5%" higth="5%"/>
-<img src="assets/icons/rabbitmq.svg" width="5%" higth="5%"/>
-<img src="assets/icons/bash.svg" width="5%" higth="5%"/>
-<img src="assets/icons/postman.svg" width="5%" higth="5%"/>
-<img src="assets/icons/intellij.svg" width="5%" higth="5%"/>
-<img src="assets/icons/linux.svg" width="5%" higth="5%"/>
-<img src="assets/icons/git.svg" width="5%" higth="5%"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,postgresql,aws,docker,kafka,rabbitmq,idea,postman,linux,bash,git&theme=dark"/>
 </div>
 
 ##  About Me
