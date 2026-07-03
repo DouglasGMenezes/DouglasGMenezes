@@ -1,7 +1,7 @@
 # Hi there! I'm Douglas
 
 <div align="center">
-  <img src="assets/banners/profile-banner.svg" alt="Banner do perfil GitHub de Douglas GM" width="100%" />
+  <img src="assets/banners/profile-banner.svg" width="100%" />
 </div>
 
 <div align="center">
