@@ -57,8 +57,8 @@ Este perfil foi desenhado para comunicar uma identidade técnica clara: organiza
 
 ### Fintech Microservices
 
-<p align="center">
-  <img src="assets/logos/fintech-microservices.svg" alt="Fintech Microservices" width="720" />
+<p>
+  <img src="assets/logos/fintech-microservices.svg" alt="Fintech Microservices" width="550" />
 </p>
 
 Projeto destaque do perfil, pensado como um ecossistema de fintech baseado em microserviços, com comunicação assíncrona, persistência separada por contexto e foco em evolução arquitetural.
