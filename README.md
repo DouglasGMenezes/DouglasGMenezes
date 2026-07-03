@@ -28,18 +28,20 @@ Este perfil foi desenhado para comunicar uma identidade técnica clara: organiza
 <p>
   <img src="assets/logos/fintech-microservices.svg" alt="Fintech Microservices" width="550" />
 </p>
+
 Projeto destaque do perfil, pensado como um ecossistema de fintech baseado em microserviços, com comunicação assíncrona, persistência separada por contexto e foco em evolução arquitetural.
 - API Gateway para entrada unificada.
 - Serviços especializados por domínio.
 - RabbitMQ como espinha dorsal de eventos.
 - PostgreSQL com persistência organizada por contexto.
 - Observabilidade e readiness para ambientes cloud.
-Saiba mais em [docs/fintech-microservices/README.md](docs/fintech-microservices/README.md)
+  Saiba mais em [docs/fintech-microservices/README.md](docs/fintech-microservices/README.md)
 - https://github.com/DouglasGMenezes/fintech-microservices
 
-## GitHub Stats
+##
 
-<p align="center">
+<p aling="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=douglasgm&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=douglasgm&theme=github_dark" alt="GitHub stats" />
 </p>
 
@@ -47,12 +49,6 @@ Saiba mais em [docs/fintech-microservices/README.md](docs/fintech-microservices/
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/DouglasGMenezes/DouglasGMenezes/output/github-contribution-grid-snake.svg" alt="Snake" width="90%" />
-</p>
-
-## GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=douglasgm&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
 </p>
 
 ##
