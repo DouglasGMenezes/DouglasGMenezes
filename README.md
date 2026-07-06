@@ -38,7 +38,7 @@ Projeto destaque do perfil, pensado como um ecossistema de fintech baseado em mi
   Saiba mais em [docs/fintech-microservices/README.md](docs/fintech-microservices/README.md)
 - https://github.com/DouglasGMenezes/fintech-microservices
 
-##
+---
 
 <p aling="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=douglasgm&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
@@ -51,13 +51,13 @@ Projeto destaque do perfil, pensado como um ecossistema de fintech baseado em mi
   <img src="https://raw.githubusercontent.com/DouglasGMenezes/DouglasGMenezes/output/github-contribution-grid-snake.svg" alt="Snake" width="90%" />
 </p>
 
-##
+---
 
 <p align="center">
   <img src="assets/cards/connect.svg" alt="Connect" width="520" />
 </p>
 
-## 
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=douglasgm&style=for-the-badge&color=111827" alt="Visitor counter" />
