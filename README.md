@@ -26,8 +26,10 @@ Este perfil foi desenhado para comunicar uma identidade técnica clara: organiza
 ## Featured Project
 
 <p>
-  <img src="assets/logos/fintech-microservices.svg" alt="Fintech Microservices" width="550" />
+  <img src="assets/logos/fintech-microservices.svg" alt="Fintech Microservices" width="400" />
 </p>
+
+### - <a href="https://github.com/DouglasGMenezes/fintech-microservices">Fintech</a>
 
 Projeto destaque do perfil, pensado como um ecossistema de fintech baseado em microserviços, com comunicação assíncrona, persistência separada por contexto e foco em evolução arquitetural.
 - API Gateway para entrada unificada.
@@ -35,8 +37,8 @@ Projeto destaque do perfil, pensado como um ecossistema de fintech baseado em mi
 - RabbitMQ como espinha dorsal de eventos.
 - PostgreSQL com persistência organizada por contexto.
 - Observabilidade e readiness para ambientes cloud.
-  Saiba mais em [docs/fintech-microservices/README.md](docs/fintech-microservices/README.md)
-- https://github.com/DouglasGMenezes/fintech-microservices
+- Saiba mais em [docs/fintech-microservices/README.md](docs/fintech-microservices/README.md)
+
 
 ---
 
