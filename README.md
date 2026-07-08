@@ -16,7 +16,7 @@
 
 ##  About Me
 
-Sou desenvolvedor backend Java júnior construindo minha evolução para me tornar um engenheiro backend forte em arquitetura de software, APIs REST, microservices, mensageria e cloud.
+Sou desenvolvedor backend Java construindo minha evolução para me tornar um engenheiro backend forte em arquitetura de software, APIs REST, microservices, mensageria e cloud.
 Este perfil foi desenhado para comunicar uma identidade técnica clara: organização, consistência e paixão por sistemas bem construídos.
 - Trabalho com Java e Spring Boot no desenvolvimento de APIs e serviços backend.
 - Tenho interesse em arquitetura limpa, DDD, design patterns e evolução de sistemas distribuídos.
