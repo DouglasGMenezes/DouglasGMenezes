@@ -42,10 +42,10 @@ Projeto destaque do perfil, pensado como um ecossistema de fintech baseado em mi
 
 ---
 
-<p aling="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=douglasgm&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=douglasgm&theme=github_dark" alt="GitHub stats" />
-</p>
+[//]: # (<p aling="center">)
+[//]: # (  <img src="https://github-readme-streak-stats.herokuapp.com/?user=douglasgm&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />)
+[//]: # (  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=douglasgm&theme=github_dark" alt="GitHub stats" />)
+[//]: # (</p>)
 
 ## Contribution Snake
 
