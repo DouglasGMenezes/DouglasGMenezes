@@ -26,10 +26,14 @@ Este perfil foi desenhado para comunicar uma identidade técnica clara: organiza
 ## Featured Project
 
 <p>
-  <img src="assets/logos/fintech-microservices.svg" alt="Fintech Microservices" width="400" />
+  <a href="https://github.com/DouglasGMenezes/fintech-microservices">
+    <img
+      src="assets/logos/fintech-microservices.svg"
+      alt="Fintech Microservices"
+      width="400"
+    />
+  </a>
 </p>
-
-### - <a href="https://github.com/DouglasGMenezes/fintech-microservices">Fintech</a>
 
 Projeto destaque do perfil, pensado como um ecossistema de fintech baseado em microserviços, com comunicação assíncrona, persistência separada por contexto e foco em evolução arquitetural.
 - API Gateway para entrada unificada.
